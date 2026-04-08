@@ -5,6 +5,6 @@
 
   <p align="center">
         <a href="https://longtao.fun">
-            <img src="Corgi.gif" width="300"/>
+            <img src=".gif" width="300"/>
         </a>
     </p>
